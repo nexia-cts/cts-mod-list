@@ -6,7 +6,7 @@ Download link: https://www.curseforge.com/minecraft/mc-mods/autoreconnect/files/
 
 Source code: https://github.com/Bstn1802/AutoReconnect
 
-Tags: **API and Library**
+Tags: **Miscellaneous**
 
 Dependencies: **Cloth Config, Fabric API**
 
